@@ -36,10 +36,11 @@
 **Days 41-50: Data Visualization**
 
 * Learn the basics of data visualization principles
-* Use Tableau or Power BI to create data visualizations
+* Use Tableau to create data visualizations
 * Create interactive data visualizations
 * Create a data visualization dashboard
 * Use data visualization to tell a story
+* Try again but with Power BI
 
 **Days 51-60: Communication**
 
